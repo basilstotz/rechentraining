@@ -1,0 +1,5 @@
+rechentraining (1.0) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Fri, 26 Dec 2014 09:03:24 +0100

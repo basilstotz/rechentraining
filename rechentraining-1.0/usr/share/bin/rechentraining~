@@ -1,0 +1,5 @@
+#!/bin/sh
+if [ -d ~/.wine ]; then
+  touch ~/.wine/drive_c/AAANNA.TXT
+fi
+wine /usr/share/prop/rechentraining/Rechentraining.exe
