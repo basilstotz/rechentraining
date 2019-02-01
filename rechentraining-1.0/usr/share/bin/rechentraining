@@ -1,6 +1,9 @@
 #!/bin/sh
 
-if [ -d ~/.wine ]; then
+if ! test -d ~/.wine/drive_c; then
+  mkdir -p ~/.wine/drive_c/
+fi
+if ! test -e ~/.wine/drive_c/AAANNA.TXT; then
   touch ~/.wine/drive_c/AAANNA.TXT
 fi
 
