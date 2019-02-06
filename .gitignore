@@ -3,3 +3,4 @@ prop
 *.dsc
 *.tar.gz
 *.deb
+*.buildinfo
