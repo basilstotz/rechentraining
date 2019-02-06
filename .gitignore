@@ -1,1 +1,5 @@
 prop
+*.changes
+*.dsc
+*.tar.gz
+*.deb
