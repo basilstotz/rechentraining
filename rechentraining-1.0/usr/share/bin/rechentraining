@@ -7,6 +7,6 @@ if ! test -e ~/.wine/drive_c/AAANNA.TXT; then
   touch ~/.wine/drive_c/AAANNA.TXT
 fi
 
-wine /usr/share/prop/rechentraining/rechentraining.exe
+wine /opt/rechentraining/Rechentraining.exe
 
 exit $?

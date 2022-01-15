@@ -1,4 +1,4 @@
-./usr/share/prop/rechentraining ./usr/share/prop/
+./opt/rechentraining ./opt/
 ./usr/share/applications/*.desktop ./usr/share/applications/
 ./usr/share/pixmaps/* ./usr/share/pixmaps/
 ./usr/share/bin/* ./usr/share/bin/
